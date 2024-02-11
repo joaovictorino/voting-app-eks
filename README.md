@@ -1,4 +1,4 @@
-# Sample voting application hosting with Elastic Kubernetes Services (EKS)
+# Sample voting application hosting with Elastic Kubernetes Services (AWS)
 
 Requirements
 
